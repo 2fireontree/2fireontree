@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=younghwangit&theme=transparent)](https://github.com/younghwangit)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghwangit&layout=compact)](https://github.com/younghwangit/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=younghwangit&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younghwangit&exclude_repo=younghwangit.github.io&layout=compact&theme=tokyonight" />
+</a>
